@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "astro": "^1.9.0"
+  },
+  "name": "astro-proto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/TinyTinyKame/astro-proto.git",
+  "author": "Thierry THONGKHAM <thierry@capsens.eu>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  }
+}
